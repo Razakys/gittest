@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a = 3;
+    const double x {2};
     cout << "Hello World!" << endl;
     return 0;
 }
